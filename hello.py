@@ -1,2 +1,6 @@
 print ("hello")
-print ("<3")
+def heart():
+    print("<3")
+
+heart()
+
